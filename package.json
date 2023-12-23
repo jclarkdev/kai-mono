@@ -1,0 +1,48 @@
+{
+	"name": "kai-mono",
+	"displayName": "Kai Mono Theme",
+	"version": "0.0.1",
+	"publisher": "jclarkdev",
+	"icon": "inst/assets/icon.png",
+	"description": "A simple monokai theme for all your apps.",
+	"author": {
+		"name": "Jordan Clark"
+	},
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"bugs": {
+		"url": "https://github.com/jclarkdev/kai-mono/issues"
+	},
+	"homepage": "https://github.com/jclarkdev/kai-mono/blob/main/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jclarkdev/kai-mono.git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark",
+		"monokai",
+		"light",
+		"kai mono"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Kai Mono",
+				"uiTheme": "vs-dark",
+				"path": "themes/kai-mono-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "605a767a-2cae-43ca-90e0-d3183251cd4a",
+		"publisherDisplayName": "jclarkdev",
+		"publisherId": "e00eb936-6afc-40e0-b76e-2357c3a9cf90",
+		"isPreReleaseVersion": false
+	}
+}
