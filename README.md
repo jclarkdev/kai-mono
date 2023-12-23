@@ -5,14 +5,14 @@
 A simple monokai theme for VSCode<br>
 View the color palette [here](https://coolors.co/f8f8f2-49483e-75715e-fd971f-f92672-e6db74-a6e22e-a1efe4-66d9ef-ae81ff)
 
-## Python
-![Python](inst/VSCode-1.png)
+## Getting Started
+To install this theme, clone this repository into your VSCode extensions folder. This can be done by running the following command in your terminal:
 
-## JavaScript
-![Javascript](inst/VSCode-2.png)
+```bash
+git clone https://github.com/jclarkdev/kai-mono.git ~/.vscode/extensions/kai-mono
+```
 
-## R
-![R](inst/VSCode-3.png)
+In  case you want to modify this theme for your own, it's recommended to fork this repository first and then clone your fork into your VSCode extensions folder.
 
-## Markdown
-![Markdown](inst/VSCode-4.png)
+## Contributing
+If you would like to contribute to this project, please open an issue or submit a pull request.
